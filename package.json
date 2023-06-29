@@ -11,8 +11,8 @@
         "test": "mocha --require babel-register --gc-global tests/test.vectors.js"
     },
     "dependencies": {
-        "bindings": "*",
-        "nan": "^2.15.0"
+        "bindings": "^1.5.0",
+        "nan": "^2.17.0"
     },
     "keywords": [
         "argon2",
